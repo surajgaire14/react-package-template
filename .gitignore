@@ -1,0 +1,4 @@
+node_modules/
+test/
+package-lock.json
+toast-notify-1.0.0.tgz
